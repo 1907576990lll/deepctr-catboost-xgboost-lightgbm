@@ -1,2 +1,3 @@
 # deepctr-catboost-xgboost-lightgbm
-的
+提供了一个deepctr的实现模板,只需要替换模型名称就可以方便的实现deepctr中的模型
+catboost,xgboost,lightgbm,isolation_forest的实现.解决不均衡数据集的预测问题.
